@@ -13,7 +13,7 @@ body {
     background-color: var(--disabled);
 }
 
-*::first-letter {
+*:first-letter {
     text-transform: capitalize;
 }
 
